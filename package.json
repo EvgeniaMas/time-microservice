@@ -1,0 +1,13 @@
+{
+  "name": "timestamp-microservice",
+  "description": "A timestamp microservice, built with Node.js and Express",
+  "version": "0.0.0",
+  "author": {
+    "name": "Evgeniia"
+  },
+  "dependencies": {
+    "express": "~4.15.x",
+    "body-parser": "~1.17.x",
+    "moment": "~2.18.x"
+  }
+}
