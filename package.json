@@ -1,6 +1,6 @@
 {
   "name": "timestamp-microservice",
-  "description": "A timestamp microservice, built with Node.js and Express",
+  "description": "A timestamp microservice(Node.js and Express.js)",
   "version": "0.0.0",
   "author": {
     "name": "Evgeniia"
@@ -9,5 +9,14 @@
     "express": "~4.15.x",
     "body-parser": "~1.17.x",
     "moment": "~2.18.x"
-  }
+  },
+
+
+"scripts": {
+    
+    "start": "time.js"
+}
+
+
+
 }
