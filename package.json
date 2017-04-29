@@ -14,7 +14,7 @@
 
 "scripts": {
     
-    "start": "time.js"
+    "start": "node time.js"
 }
 
 
